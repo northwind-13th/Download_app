@@ -13,8 +13,7 @@ html,body{
 #app_holder{
     width: 28rem;
     height: 34rem;
-    border: 2px solid black;
-    margin: 0 auto;
+    margin: 10vw auto;
 }
 #app_container{
     width: 24rem;
